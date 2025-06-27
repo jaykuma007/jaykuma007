@@ -28,7 +28,6 @@ I'm a seasoned **Senior Manager** specializing in **Multi-Cloud Platform Enginee
 **Senior Manager - Multi-Cloud & Security Platform Engineering** at **Asahi Group Holdings Ltd**
 - Leading platform optimization across multi-cloud environments
 - Implementing enterprise-scale automation and CI/CD practices
-- Managing SAP ECC to S/4 HANA migration projects
 - Driving cost optimization through FinOps practices
 
 ---
