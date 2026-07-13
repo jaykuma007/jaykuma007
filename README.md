@@ -107,7 +107,7 @@ I'm a seasoned **Senior Manager** specializing in **Multi-Cloud Platform Enginee
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://jaykuma007.github.io/jayk/" target="_blank">
+  <a href="https://jaykuma007.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:Jay.choubey007@gmail.com" target="_blank">
