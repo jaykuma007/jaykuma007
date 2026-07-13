@@ -14,7 +14,7 @@
 
 I'm a seasoned **Senior Manager** specializing in **Multi-Cloud Platform Engineering and Operations** with extensive experience in enterprise-scale cloud infrastructure. Currently leading cloud transformation initiatives at **Asahi Group Holdings Ltd** in Tokyo, Japan.
 
-- 🌟 **15+ years** of experience in cloud infrastructure and platform engineering
+- 🌟 **16+ years** of experience in cloud infrastructure and platform engineering
 - ☁️ Expert in **multi-cloud environments** (Azure, AWS, GCP) and on-premise infrastructures
 - 🔐 Specialized in **HashiCorp Vault Enterprise** management for 300+ applications
 - 🎯 Passionate about **automation, operational efficiency**, and **enterprise architecture**
