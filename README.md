@@ -95,8 +95,10 @@ I'm a seasoned **Senior Manager** specializing in **Multi-Cloud Platform Enginee
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaykuma007&show_icons=true&theme=radical" alt="Jay's GitHub Stats" />
+ # <img src="https://github-readme-stats.vercel.app/api?username=jaykuma007&show_icons=true&theme=radical" alt="Jay's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=jaykuma007&theme=radical" alt="Jay's GitHub Streak" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaykuma007&theme=radical" alt="Jay's GitHub Streak" />
